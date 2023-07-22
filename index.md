@@ -1,5 +1,5 @@
 <!-- Table of Contents -->
-- [README](#README)
+- [README](#/README)
   - [Section 1](#section-1)
   - [Section 2](#section-2)
 - [Related Pages](#related-pages)
@@ -9,7 +9,7 @@
 <!-- Document Content -->
 # Home
 
-This is a sample document created for the client-side document viewer.
+haiii try [this](#/README)
 
 ## Section 1
 
