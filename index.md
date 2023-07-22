@@ -2,14 +2,13 @@
 - [README](#/README)
   - [Section 1](#section-1)
   - [Section 2](#section-2)
-- [Related Pages](#related-pages)
-  - [Another Page](another-page.md)
-  - [Yet Another Page](yet-another-page.md)
 
 <!-- Document Content -->
 # Home
 
-haiii try [this](#/README)
+im working on a simple wiki framework so i can knock off on some projects of mine, so this will be useful
+
+if you want to see my website [click here](/)
 
 ## Section 1
 
