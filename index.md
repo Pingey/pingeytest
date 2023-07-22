@@ -12,10 +12,8 @@ im working on a simple wiki framework so i can knock off on some projects of min
 
 if you want to see my website [click here](/)
 
-## Section 1
+## Links
 
 [a test of the framework with markdown](#/README)
 
-## Section 2
-
-And here's some content for section 2.
+[if you would want to make a page for this click here](#/doc)
