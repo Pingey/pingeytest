@@ -1,5 +1,5 @@
 <!-- Table of Contents -->
-- [My Document](#my-document)
+- [README](#README)
   - [Section 1](#section-1)
   - [Section 2](#section-2)
 - [Related Pages](#related-pages)
