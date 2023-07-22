@@ -31,7 +31,7 @@ This is a **bold** and *italic* text. You can also use __double underscores__ or
 
 ## Links and Images
 
-Visit [OpenAI](https://openai.com) to learn more about AI.
+Visit [Google](https://google.com) to learn more about stuff.
 
 ![Markdown Logo](https://d33wubrfki0l68.cloudfront.net/e7224c9c3fe0e21336a4b695b68f3017a9d23daa/64802/assets/images/markdown-mark-white.svg)
 
