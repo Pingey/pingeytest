@@ -17,7 +17,7 @@ there are 4 tags currently,
 - \<!\-\- Favicon: URL \-\-\>
 - \<!\-\- Title \-\-\>
 - \<!\-\- Table of Contents \-\-\>
-- \<!\-\- Document Content \-\-\\>
+- \<!\-\- Document Content \-\-\>
 
 first off, theres the Favicon tag, it changes the favicon url to any image, as long as the browser supports its fairgame
 second off, title, i dont know why i didnt make this like the favicon tag but ehh, the title changes the header text and the tab title
