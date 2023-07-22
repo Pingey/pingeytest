@@ -1,6 +1,6 @@
 <!-- Favicon: https://pingey.neocities.org/jinx.jpg -->
 <!-- Title -->
-Custom title
+MarkDown Viewer
 <!-- Table of Contents -->
 - [Testing](#/README)
 - [Github](https://github.com/Pingey/pingeytest)
