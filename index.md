@@ -18,7 +18,7 @@ if you want to see my website [click here](/)
 
 ## Section 1
 
-Here's some content for section 1.
+[a test of the framework with markdown](#README)
 
 ## Section 2
 
