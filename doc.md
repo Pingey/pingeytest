@@ -34,4 +34,4 @@ simply where to start
 > in this case its set to pingey.github.io/pingeytest
 ### the path
 and the added path, to get the file, it adds .md to the end so make sure files are .md
-> in this case its set to /doc.md
+> in this case its set to /doc
