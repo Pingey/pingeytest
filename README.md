@@ -41,7 +41,7 @@ Visit [Google](https://google.com) to learn more about stuff.
 
 ## Code
 
-Inline code: \`var x = 10;\`
+Inline code: `var x = 10;`
 
 Code block:
 
