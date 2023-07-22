@@ -7,6 +7,11 @@
   - [Yet Another Page](yet-another-page.md)
 
 <!-- Document Content -->
+
+---
+title: My Custom Document Title
+---
+
 # Markdown Sample Document
 
 ## Text Formatting
