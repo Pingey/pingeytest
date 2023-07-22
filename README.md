@@ -1,3 +1,4 @@
+<!-- Favicon: https://pingey.neocities.org/jinx.jpg -->
 <!-- Title -->
 Custom title
 <!-- Table of Contents -->
