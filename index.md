@@ -2,12 +2,8 @@
 <!-- Title -->
 Custom title
 <!-- Table of Contents -->
-- [My Document](#my-document)
-  - [Section 1](#section-1)
-  - [Section 2](#section-2)
-- [Related Pages](#related-pages)
-  - [Another Page](another-page.md)
-  - [Yet Another Page](yet-another-page.md)
+- [Testing](#/README)
+- [Github](https://github.com/Pingey/pingeytest)
 
 <!-- Document Content -->
 # Home
