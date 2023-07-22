@@ -8,7 +8,7 @@ Documentation
 <!-- Document Content -->
 
 # Documentation
-
+---
 ## Intro
 ok first off, this is all modeled around the simple markdown files features, so its mechanically the same as other viewers, except this one is in a website, and has some extra features
 
