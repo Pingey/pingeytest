@@ -1,7 +1,13 @@
+<!-- Favicon: https://pingey.neocities.org/jinx.jpg -->
+<!-- Title -->
+Custom title
 <!-- Table of Contents -->
-- [README](#/README)
+- [My Document](#my-document)
   - [Section 1](#section-1)
   - [Section 2](#section-2)
+- [Related Pages](#related-pages)
+  - [Another Page](another-page.md)
+  - [Yet Another Page](yet-another-page.md)
 
 <!-- Document Content -->
 # Home
