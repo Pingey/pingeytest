@@ -1,3 +1,5 @@
+<!-- Title -->
+Custom title
 <!-- Table of Contents -->
 - [My Document](#my-document)
   - [Section 1](#section-1)
@@ -7,10 +9,6 @@
   - [Yet Another Page](yet-another-page.md)
 
 <!-- Document Content -->
-
----
-title: My Custom Document Title
----
 
 # Markdown Sample Document
 
