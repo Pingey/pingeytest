@@ -19,9 +19,12 @@ there are 4 tags currently,
 - \<!\-\- Table of Contents \-\-\>
 - \<!\-\- Document Content \-\-\>
 
-first off, theres the Favicon tag, it changes the favicon url to any image, as long as the browser supports its fairgame\n
-second off, title, i dont know why i didnt make this like the favicon tag but ehh, the title changes the header text and the tab title/n
+first off, theres the Favicon tag, it changes the favicon url to any image, as long as the browser supports its fairgame
+
+second off, title, i dont know why i didnt make this like the favicon tag but ehh, the title changes the header text and the tab title
+
 third off, table of contents, its the menu on the left, right now, theres no way to make it so it jumps to a specific section of the document sadly
+
 and lastly, document content, its basically the whole markdown file itself
 
 ## File system
